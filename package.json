@@ -1,6 +1,6 @@
 {
   "name": "cordova-android-root-detection",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Plugin for checking if the device is rooted or not",
   "cordova": {
     "id": "cordova-android-root-detection",
